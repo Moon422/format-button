@@ -17,7 +17,7 @@ export function activate(context: vscode.ExtensionContext) {
 		100
 	);
 
-	button.text = "$(broom) Format";
+	button.text = "$(wand) Format";
 	button.command = "formatButton.format";
 	button.tooltip = "Format Document";
 	button.show();
