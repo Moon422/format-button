@@ -3,7 +3,7 @@
   "displayName": "format-button",
   "description": "Adds a format button in the status bar.",
   "version": "0.0.1",
-  "publisher": "devfromeast",
+  "publisher": "MahfuzurRahman",
   "engines": {
     "vscode": "^1.106.0"
   },
