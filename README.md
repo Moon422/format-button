@@ -8,7 +8,7 @@ A lightweight Visual Studio Code extension that adds a status-bar button to trig
 
 ## Features
 
-- Adds a status bar button: `$(broom) Format`
+- Adds a status bar button: `$(wand) Format`
 - Runs the `editor.action.formatDocument` command on the active editor
 - Shows an information message when no editor is active
 

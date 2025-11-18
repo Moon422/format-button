@@ -21,7 +21,7 @@
 ## Get up and running straight away
 
 * Press `F5` to open a new Extension Development Host window with your extension loaded.
-* The status bar button `$(broom) Format` will appear on the right side of the status bar.
+* The status bar button `$(wand) Format` will appear on the right side of the status bar.
 * Click the button to format the active document, or run the command from the command palette by pressing (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) and typing `Format Document via Button`.
 * Set breakpoints in your code inside `src/extension.ts` to debug your extension.
 * Find output from your extension in the debug console.
